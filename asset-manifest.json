@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ghibli-films-db/static/css/main.2a145666.chunk.css",
-    "main.js": "/ghibli-films-db/static/js/main.7bd35d28.chunk.js",
-    "main.js.map": "/ghibli-films-db/static/js/main.7bd35d28.chunk.js.map",
+    "main.js": "/ghibli-films-db/static/js/main.a951b50f.chunk.js",
+    "main.js.map": "/ghibli-films-db/static/js/main.a951b50f.chunk.js.map",
     "runtime-main.js": "/ghibli-films-db/static/js/runtime-main.87fddbd2.js",
     "runtime-main.js.map": "/ghibli-films-db/static/js/runtime-main.87fddbd2.js.map",
     "static/js/2.fedac5aa.chunk.js": "/ghibli-films-db/static/js/2.fedac5aa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.87fddbd2.js",
     "static/js/2.fedac5aa.chunk.js",
     "static/css/main.2a145666.chunk.css",
-    "static/js/main.7bd35d28.chunk.js"
+    "static/js/main.a951b50f.chunk.js"
   ]
 }
