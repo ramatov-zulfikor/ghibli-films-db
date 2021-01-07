@@ -1,3 +1,11 @@
+# API I used
+
+In the project I used this [API](https://ghibliapi.herokuapp.com/).
+
+# Illustrator
+
+Poster's made by [DannyBeaton](https://www.dannybeaton.com.au/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
