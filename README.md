@@ -4,7 +4,8 @@ In the project I used this [API](https://ghibliapi.herokuapp.com/).
 
 # Illustrator
 
-Poster's made by [DannyBeaton](https://www.dannybeaton.com.au/).
+Posters made by [DannyBeaton](https://www.dannybeaton.com.au/).
+Download [posters](https://imgur.com/gallery/bm96l/comment/1326391141).
 
 # Getting Started with Create React App
 
