@@ -83,7 +83,7 @@ function FilmView({ film }) {
    return (
       <React.Fragment>
          <div className="random-film__col col">
-            <img src={process.env.PUBLIC_URL + `posters/${id}.jpg`} alt="poster" />
+            <img src={process.env.PUBLIC_URL + `/posters/${id}.jpg`} alt="poster" />
          </div>
          <div className="random-film__col col">
             <h2 className="random-film__title">{title}</h2>

@@ -97,7 +97,7 @@ function FilmView({ film }) {
    return (
       <React.Fragment>
          <div className="film-details__col col">
-            <img src={process.env.PUBLIC_URL + `posters/${id}.jpg`} alt="poster" />
+            <img src={process.env.PUBLIC_URL + `/posters/${id}.jpg`} alt="poster" />
             <button className="film-details__button">
                <a data-fancybox href={curLink}>Watch Trailer</a>
             </button>
