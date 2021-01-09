@@ -11,7 +11,7 @@ export default function Header() {
                   <a href="/">Studio Ghibli DB</a>
                </div>
                <nav className="header__menu row">
-                  <a href="https://ghibliapi.herokuapp.com/" className="header__link">API</a>
+                  <a href="https://imgur.com/gallery/bm96l/comment/1326391141/" className="header__link">Posters</a>
                   <a href="https://www.dannybeaton.com.au/" className="header__link">Illustrator</a>
                </nav>
             </div>
